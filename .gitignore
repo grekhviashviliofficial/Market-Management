@@ -1,0 +1,65 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+
+# =========================
+# Rider / IntelliJ
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# .NET / NuGet
+# =========================
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment files
+# =========================
+appsettings.Development.json
+
+# =========================
+# ReSharper
+# =========================
+_ReSharper.Caches/
+
+# =========================
+# Rider local history
+# =========================
+.idea_modules/
+
+# =========================
+# SQL project temp
+# =========================
+*.dbmdl
+*.jfm
+*.pdb
+*.cache
